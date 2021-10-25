@@ -19,7 +19,7 @@ jobs:
           user: lego963
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Berlin
+          config_timezone: Europe/Moscow
           plugin_contributors: yes
           plugin_contributors_head: master
           plugin_contributors_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
